@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is just for testing purposes
-=======
- is a meaningless text just for testing purposes
->>>>>>> f733db1f96a68d7878b29cb7f880e433d94d6b9f
