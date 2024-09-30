@@ -3,9 +3,6 @@
 
 <h2 align="center">Hi 👋! My name is Adam and I'm a Full-Stack Developer<br> from Slovakia, living in Copenhagen, Denmark</h2>
 
-<br>
-<br>
-
 ###
 
 <br>
