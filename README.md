@@ -3,11 +3,11 @@
 
 <h2 align="center">Hi 👋! My name is Adam and I'm a Full-Stack Developer<br> from Slovakia, living in Copenhagen, Denmark</h2>
 
-<p align="center">I'm a 22-year-old Computer Science graduate based in Copenhagen, pursuing a career in software development. 
+<p align="center">I'm a 22-year-old Computer Science graduate based in Copenhagen, pursuing a career in software development. </p>
 
-I've worked on multiple projects involving front-end, back-end, and mobile development along with database architecture and management. Currently working on the integration of internal and external services.
+<p align="center">I've worked on multiple projects involving front-end, back-end, and mobile development along with database architecture and management. Currently working on the integration of internal and external services. </p>
 
-I enjoy learning in general, I’m a quick learner and I love to provide real value to the world using my skills.</p>
+<p align="center">I enjoy learning in general, I’m a quick learner and I love to provide real value to the world using my skills.</p>
 
 ###
 
