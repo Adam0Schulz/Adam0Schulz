@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is <strong>Adam</strong> and I'm a <strong>Full-Stack Developer</strong> from Slovakia, living in Copenhagen, Denmark</p>
+<h3 align="left">Hi 👋! My name is <strong>Adam</strong> and I'm a <strong>Full-Stack Developer</strong> from Slovakia, living in Copenhagen, Denmark</h3>
 
 ###
 
