@@ -1,7 +1,7 @@
 <br>
 <br>
 
-### Hi 👋! My name is **Adam** and I'm a **Full-Stack Developer**<br> from **Slovakia**, living in **Copenhagen, Denmark**
+<h2 style="center">Hi 👋! My name is **Adam** and I'm a **Full-Stack Developer**<br> from **Slovakia**, living in **Copenhagen, Denmark**</h2>
 
 ###
 
