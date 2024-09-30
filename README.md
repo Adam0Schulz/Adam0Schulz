@@ -1,12 +1,13 @@
 ### Hi 👋! My name is **Adam** and I'm a **Full-Stack Developer** from **Slovakia**, living in **Copenhagen, Denmark**
 
 ###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adam0Schulz&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam0Schulz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
+<br>
 ###
 
 <div align="center">
