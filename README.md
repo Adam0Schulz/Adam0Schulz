@@ -1,15 +1,15 @@
-<h1 align="left">Hi 👋! My name is Adam and I'm a Full-Stack Developer from Slovakia, living in Copenhagen, Denmark</h1>
+<h2 align="left">Hi 👋! My name is Adam and I'm a Full-Stack Developer from Slovakia, living in Copenhagen, Denmark</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam0Schulz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam0Schulz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam0Schulz&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam0Schulz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBub2RnNnNhODdjM3R5cml2em9mMzNkN3RoMDF3eDY2bGxrazdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.webp"  />
+<img align="left" height="150" src="https://imgs.search.brave.com/6vnfOR5wOoQTY-TWbk5gsmPMIDUwvZOgyNcluY3r-xA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtcHJvZ3JhbW1l/ci1ndXktY29kaW5n/LTc5MGEwYnM4ZTh0/aHBpc2cuZ2lm.gif"  />
 
 ###
 
