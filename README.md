@@ -1,7 +1,7 @@
 <br>
 <br>
 
-### Hi 👋! My name is **Adam** and I'm a **Full-Stack Developer** from **Slovakia**, living in **Copenhagen, Denmark**
+### Hi 👋! My name is **Adam** and I'm a **Full-Stack Developer**<br> from **Slovakia**, living in **Copenhagen, Denmark**
 
 ###
 
