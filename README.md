@@ -3,6 +3,9 @@
 
 <h2 align="center">Hi 👋! My name is Adam and I'm a Full-Stack Developer<br> from Slovakia, living in Copenhagen, Denmark</h2>
 
+<br>
+<br>
+
 ###
 
 <br>
@@ -63,11 +66,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20on&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Adam0Schulz/Adam0Schulz/output/snake.svg" alt="Snake animation" />
-
-###
