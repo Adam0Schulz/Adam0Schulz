@@ -9,11 +9,7 @@
 
 ###
 
-<img align="left" height="150" src="https://imgs.search.brave.com/6vnfOR5wOoQTY-TWbk5gsmPMIDUwvZOgyNcluY3r-xA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtcHJvZ3JhbW1l/ci1ndXktY29kaW5n/LTc5MGEwYnM4ZTh0/aHBpc2cuZ2lm.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/adam-schulz-9ba02b21b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20on&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
